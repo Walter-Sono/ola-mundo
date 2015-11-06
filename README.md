@@ -1,2 +1,2 @@
 # ola-mundo
-Apenas uma outra decricao
+Apenas uma outra descricao
